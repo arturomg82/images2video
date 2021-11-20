@@ -1,4 +1,4 @@
-# Create a video (mp4) from image sequences (jpg, png).
+# Image2Video: Creating a video from image sequences.
 
 This script shows how to create a video, in MP4 format, from image sequences (in PNG or JPG format)
 of different resolution.
